@@ -1,0 +1,5 @@
+{
+  "name": "Hybrid Capsule Network and Restricted Boltzmann Machine Framework",
+  "description": "An interactive web application demonstrating the Hybrid Capsule Network and Restricted Boltzmann Machine Framework for Fake News Detection, based on the research by Anurag Das.",
+  "requestFramePermissions": []
+}
